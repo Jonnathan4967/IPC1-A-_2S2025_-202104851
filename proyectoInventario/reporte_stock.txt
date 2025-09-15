@@ -1,0 +1,3 @@
+Reporte de Inventario
+pantalon de gamuza | Pe022 | pantalones | Q200.0 | Stock:100
+jonathann  | PE022 | oantaon | Q200.0 | Stock:0
